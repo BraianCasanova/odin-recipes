@@ -1,0 +1,37 @@
+/* Index.html */
+.titleindex {
+    background-color: aqua;
+    font-size: 40px;
+    font-family: monospace;
+    font-weight: bold;
+    text-align: center;
+}
+
+.recipelist {
+    color: red;
+    font-family: monospace;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+/* burger */
+
+#titleburger {
+    color: rgba(238, 1, 1, 0.87);
+    font-size: 40px;
+    font-family: monospace;
+    font-weight: bold;
+    text-align: center;
+}
+
+#burger {
+    height: auto;
+    width: 500px;
+}
+
+.di {
+    background-color: brown;
+    font-family: fantasy;
+    font-size: 30px;
+    text-align: center;
+}
